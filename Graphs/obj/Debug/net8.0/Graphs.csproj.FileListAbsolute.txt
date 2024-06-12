@@ -1,0 +1,14 @@
+/home/amasirat/learning/algorithms/graphs/Graphs/bin/Debug/net8.0/Graphs
+/home/amasirat/learning/algorithms/graphs/Graphs/bin/Debug/net8.0/Graphs.deps.json
+/home/amasirat/learning/algorithms/graphs/Graphs/bin/Debug/net8.0/Graphs.runtimeconfig.json
+/home/amasirat/learning/algorithms/graphs/Graphs/bin/Debug/net8.0/Graphs.dll
+/home/amasirat/learning/algorithms/graphs/Graphs/bin/Debug/net8.0/Graphs.pdb
+/home/amasirat/learning/algorithms/graphs/Graphs/obj/Debug/net8.0/Graphs.GeneratedMSBuildEditorConfig.editorconfig
+/home/amasirat/learning/algorithms/graphs/Graphs/obj/Debug/net8.0/Graphs.AssemblyInfoInputs.cache
+/home/amasirat/learning/algorithms/graphs/Graphs/obj/Debug/net8.0/Graphs.AssemblyInfo.cs
+/home/amasirat/learning/algorithms/graphs/Graphs/obj/Debug/net8.0/Graphs.csproj.CoreCompileInputs.cache
+/home/amasirat/learning/algorithms/graphs/Graphs/obj/Debug/net8.0/Graphs.dll
+/home/amasirat/learning/algorithms/graphs/Graphs/obj/Debug/net8.0/refint/Graphs.dll
+/home/amasirat/learning/algorithms/graphs/Graphs/obj/Debug/net8.0/Graphs.pdb
+/home/amasirat/learning/algorithms/graphs/Graphs/obj/Debug/net8.0/Graphs.genruntimeconfig.cache
+/home/amasirat/learning/algorithms/graphs/Graphs/obj/Debug/net8.0/ref/Graphs.dll

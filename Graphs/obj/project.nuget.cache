@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/+aJmJ0F2UqjoJwe335AnvYBX1cebPKsdy1UOrxrzO0lIfGlKq1T18t4P0m/V6d7yeZvLMWaiBvq5uhnlQtBqg==",
+  "success": true,
+  "projectFilePath": "/home/amasirat/learning/algorithms/graphs/Graphs/Graphs.csproj",
+  "expectedPackageFiles": [
+    "/home/amasirat/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.6/microsoft.aspnetcore.app.ref.8.0.6.nupkg.sha512"
+  ],
+  "logs": []
+}
